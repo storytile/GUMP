@@ -6,7 +6,7 @@
  * @author      Sean Nieuwoudt (http://twitter.com/SeanNieuwoudt)
  * @copyright   Copyright (c) 2016 wixelhq.com
  *
- * @link        http://github.com/Wixel/GUMP
+ * @link        http://github.com/storytile/GUMP
  *
  * @version     1.4
  */
