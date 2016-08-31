@@ -363,7 +363,7 @@ class GUMP
 
             $rules = explode('|', $rules);
 
-            if (in_array('required', $rules) || (isset($input[$field]) && !is_array($input[$field]))) {
+            if (in_array('required', $rules) || isset($input[$field])) {
                 foreach ($rules as $rule) {
                     $method = null;
                     $param = null;
